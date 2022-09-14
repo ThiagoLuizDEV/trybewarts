@@ -31,8 +31,4 @@ main {
   height: 500px;
 }
 
-#family {
-  display: flex;
-  flex-direction: column;
-}
 
