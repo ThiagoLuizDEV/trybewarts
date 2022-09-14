@@ -34,3 +34,13 @@ main {
 #label-content{
     display: flex;
 }
+
+#container-comentario {
+  margin-top: 10px;
+}
+
+#comentario {
+  resize: none;
+  width: 80%;
+}
+
