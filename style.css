@@ -40,9 +40,11 @@ section {
 
 #textarea {
   resize: none;
-  width: 80%;
+  width: 90%;
 }
 
 #counter {
   margin: 0;
+  margin-right: 70px;
+  text-align: end;
 }
